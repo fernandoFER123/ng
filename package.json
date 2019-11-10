@@ -6,7 +6,6 @@
   "version": "1.0.0",
   "scripts": {
     "ng": "ng",
-    
     "start": "node server.js",
     "build": "ng build",
     "test": "ng test",
@@ -16,11 +15,10 @@
   },
   "private": true,
   "dependencies": {
+    
     "@angular/animations": "~8.2.0",
-    "@angular/cli": "^8.3.18",
     "@angular/common": "~8.2.0",
     "@angular/compiler": "~8.2.0",
-    "@angular/compiler-cli": "^8.2.13",
     "@angular/core": "~8.2.0",
     "@angular/forms": "~8.2.0",
     "@angular/platform-browser": "~8.2.0",
